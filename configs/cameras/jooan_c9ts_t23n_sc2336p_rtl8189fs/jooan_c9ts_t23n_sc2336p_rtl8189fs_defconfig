@@ -34,3 +34,4 @@ BR2_PRIMARY_SITE="https://buildroot.net"
 BR2_PACKAGE_ZLIB_CUSTOM_REPO=y
 BR2_PACKAGE_ZLIB_CUSTOM_REPO_URL="https://buildroot.net"
 BR2_PACKAGE_ZLIB_CUSTOM_REPO_VERSION="zlib-1.3.2"
+BR2_GNU_MIRROR="https://gnu.org"
